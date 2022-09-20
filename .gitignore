@@ -1,0 +1,10 @@
+.DS_Store
+.git
+.terraform
+.terraform.lock.hcl
+.tfvars
+terraform.tfstate
+terraform.tfvars
+terraform.tfstate.backup
+cloud-init.tpl
+crash.log
